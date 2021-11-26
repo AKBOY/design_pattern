@@ -15,11 +15,13 @@
     - 过滤器 filter
 - 行为型模式
   - 关注对象之间的通信。
-    - 策略 context
+    - 策略 strategy
     - 模板 template
     - 观察者 observer
     - 责任链 chain
     - 装饰器 decorator
+    - 状态 state
+    - 中介者 mediator
 - J2EE模式
   - 特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
   
