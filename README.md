@@ -13,6 +13,7 @@
     - 代理 proxy
     - 外观 facade
     - 过滤器 filter
+    - 桥接 bridge
 - 行为型模式
   - 关注对象之间的通信。
     - 策略 strategy
