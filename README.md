@@ -15,7 +15,7 @@
     - 外观 facade
     - 过滤器 filter
     - 桥接 bridge
-    - 组合 composite // todo
+    - 组合 composite
     - 亨元 flyweight // todo
     - 
 - 行为型模式
@@ -30,7 +30,6 @@
     - 命令 command // todo
     - 解释器 interpreter // todo
     - 迭代器 iterator // todo
-    - 中介者模式 mediator // todo
 - J2EE模式
   - 特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
   
