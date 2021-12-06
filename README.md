@@ -7,13 +7,17 @@
     - 工厂 factory
     - 抽象工厂 abstractFactory
     - 建造者模式 builder
+    - 原型 prototype
 - 结构型模式
   - 关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
     - 适配器 adapter
-    - 代理 proxy
+    - 代理 proxy   // todo cglib代理 以及 动态代理 的理解
     - 外观 facade
     - 过滤器 filter
     - 桥接 bridge
+    - 组合 composite // todo
+    - 亨元 flyweight // todo
+    - 
 - 行为型模式
   - 关注对象之间的通信。
     - 策略 strategy
@@ -23,6 +27,10 @@
     - 装饰器 decorator
     - 状态 state
     - 中介者 mediator
+    - 命令 command // todo
+    - 解释器 interpreter // todo
+    - 迭代器 iterator // todo
+    - 中介者模式 mediator // todo
 - J2EE模式
   - 特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
   
