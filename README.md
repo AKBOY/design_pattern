@@ -16,7 +16,7 @@
     - 过滤器 filter
     - 桥接 bridge
     - 组合 composite
-    - 亨元 flyweight // todo
+    - 亨元 flyweight
     - 
 - 行为型模式
   - 关注对象之间的通信。
@@ -50,3 +50,10 @@
    &emsp; **对于某一个类来说，应该尽量少的与其它类发生相互作用，使功能模块之间相互独立**
 ### 6. 合成复用原则（Composite Reuse Principle）
    &emsp; **尽量使用合成/聚合（即实现接口）的方式，而不是使用继承**
+   
+
+# 注： 本所有示例、有关知识点文本，除部分个人理解部分均来自于网络。
+例如：
+- 菜鸟教程（https://www.runoob.com/）
+- SCDN博客（https://blog.csdn.net/）
+- 知乎等
