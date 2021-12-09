@@ -27,7 +27,7 @@
     - 装饰器 decorator
     - 状态 state
     - 中介者 mediator
-    - 命令 command // todo
+    - 命令 command 
     - 解释器 interpreter // todo
     - 迭代器 iterator // todo
 - J2EE模式
