@@ -28,7 +28,7 @@
     - 状态 state
     - 中介者 mediator
     - 命令 command 
-    - 解释器 interpreter // todo
+    - 解释器 interpreter
     - 迭代器 iterator // todo
 - J2EE模式
   - 特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
