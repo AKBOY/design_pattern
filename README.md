@@ -29,7 +29,7 @@
     - 中介者 mediator
     - 命令 command 
     - 解释器 interpreter
-    - 迭代器 iterator // todo
+    - 迭代器 iterator
 - J2EE模式
   - 特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
   
